@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+    <property name="acs-oauth-secret-production" type="string">VbmA2M7mkwhRonfsmagWCMAUzxaFPbgR</property>
+    <property name="acs-oauth-key-production" type="string">7SP6qsZyRQkLvIgGLbvHCmlAsW2X8a6a</property>
+    <property name="acs-api-key-production" type="string">9caATFWSjpDktoY4qwQpeGHPsX4Gnqha</property>
+    <property name="acs-oauth-secret-development" type="string">b1BxMtjyQbs8o0MRfF3OMaKmcjQAYJQo</property>
+    <property name="acs-oauth-key-development" type="string">gUTAZUK5Tlc8CVU7Jszc52o3T45LaH4c</property>
+    <property name="acs-api-key-development" type="string">rokmDKqvEfL8m0iW9eeEbXNLwnnJ4qMj</property>
+    <deployment-targets>
+        <target device="mobileweb">false</target>
+        <target device="iphone">true</target>
+        <target device="ipad">false</target>
+        <target device="android">true</target>
+        <target device="blackberry">false</target>
+    </deployment-targets>
+    <sdk-version>2.1.1.GA</sdk-version>
+    <id>com.chinasoft.proverbexpress</id>
+    <name>Proverb Express</name>
+    <version>2</version>
+    <publisher>lienhungcheng</publisher>
+    <url>http://www.china-soft.com.tw</url>
+    <description>not specified</description>
+    <copyright>2012 by lienhungcheng</copyright>
+    <icon>appicon.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>true</navbar-hidden>
+    <analytics>true</analytics>
+    <guid>39b6de9b-a9e6-46f1-a034-5b0a9025d3ab</guid>
+    <property name="ti.ui.defaultunit">system</property>
+    <iphone>
+        <orientations device="iphone">
+            <orientation>Ti.UI.PORTRAIT</orientation>
+        </orientations>
+        <orientations device="ipad">
+            <orientation>Ti.UI.PORTRAIT</orientation>
+            <orientation>Ti.UI.UPSIDE_PORTRAIT</orientation>
+            <orientation>Ti.UI.LANDSCAPE_LEFT</orientation>
+            <orientation>Ti.UI.LANDSCAPE_RIGHT</orientation>
+        </orientations>
+    </iphone>   
+    <android xmlns:android="http://schemas.android.com/apk/res/android"/>
+    <mobileweb>
+        <precache/>
+        <splash>
+            <enabled>true</enabled>
+            <inline-css-images>true</inline-css-images>
+        </splash>
+        <theme>default</theme>
+    </mobileweb>
+    <modules>
+        <module platform="commonjs" version="2.2.0">ti.cloud</module>
+    </modules>
+</ti:app>

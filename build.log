@@ -1,0 +1,187 @@
+Logfile initialized
+[INFO] logfile = /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build.log
+[DEBUG] /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/builder.py simulator Proverb Express /Users/lienhungcheng/Documents/AndroidSDK /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress com.chinasoft.proverbexpress 6 HVGA 
+[INFO] Building Proverb Express for Android ... one moment
+[INFO] Titanium SDK version: 2.1.1 (07/27/12 14:01 0fd84a2)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.017315 seconds on emulator to get ready
+[DEBUG] com.chinasoft.proverbexpress installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[INFO] Detected change in tiapp.xml, or assets deleted. Forcing full re-build...
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/appicon.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/appicon.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/default.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/default.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/app.js => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/app.js
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/bar_select.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/bar_select.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/color_picker.js => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/color_picker.js
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/default_app_logo.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/default_app_logo.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/graph/background.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/graph/background.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/graph/background0.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/graph/background0.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/graph/mypic0.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/graph/mypic0.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/graph/mypic1.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/graph/mypic1.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/graph/mypic2.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/graph/mypic2.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/graph/mypic3.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/graph/mypic3.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/graph/mypic4.jpg => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/graph/mypic4.jpg
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/graph/mypic4.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/graph/mypic4.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/graph/mypic5.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/graph/mypic5.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/graph/mypic6.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/graph/mypic6.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/graph/mypic8.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/graph/mypic8.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/graph/mypic9.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/graph/mypic9.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/graph/word.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/graph/word.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/graph/word0.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/graph/word0.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/image/colormap.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/image/colormap.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/image/colormap_org.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/image/colormap_org.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/image/default_app_logo.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/image/default_app_logo.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/image/hscrosshair.gif => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/image/hscrosshair.gif
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/image/labelicon.jpg => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/image/labelicon.jpg
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/image/lcrosshair.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/image/lcrosshair.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/KS_nav_ui.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/KS_nav_ui.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/KS_nav_views.png => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/KS_nav_views.png
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/main.js => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/main.js
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/readProv.js => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/readProv.js
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/splash.js => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/splash.js
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/txt/proverbs.txt => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/txt/proverbs.txt
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/wav/1.mp3 => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/wav/1.mp3
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/wav/1.wav => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/wav/1.wav
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/wav/2.mp3 => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/wav/2.mp3
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/wav/2.wav => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/wav/2.wav
+[TRACE] COPYING CREATED FILE: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/wav/all.mp3 => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/wav/all.mp3
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[DEBUG] app stylesheet => /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/gen/com/chinasoft/proverbexpress/ApplicationStylesheet.java
+[DEBUG] copying app icon: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] copying /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-long-land-hdpi/default.png splash screen to /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] copying /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-long-land-ldpi/default.png splash screen to /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] copying /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-long-port-hdpi/default.png splash screen to /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] copying /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-long-port-ldpi/default.png splash screen to /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] copying /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-notlong-land-hdpi/default.png splash screen to /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] copying /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-notlong-land-ldpi/default.png splash screen to /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] copying /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-notlong-land-mdpi/default.png splash screen to /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] copying /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-notlong-port-hdpi/default.png splash screen to /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] copying /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-notlong-port-ldpi/default.png splash screen to /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] copying /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/Resources/android/images/res-notlong-port-mdpi/default.png splash screen to /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG] found splash screen at /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/assets/Resources/default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/gen/com/chinasoft/proverbexpress/ApplicationStylesheet.java to javac build list
+[DEBUG] adding /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/gen/com/chinasoft/proverbexpress/ProverbExpressActivity.java to javac build list
+[DEBUG] adding /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/gen/com/chinasoft/proverbexpress/ProverbExpressAppInfo.java to javac build list
+[DEBUG] adding /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/gen/com/chinasoft/proverbexpress/ProverbExpressApplication.java to javac build list
+[DEBUG] adding /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/gen/com/chinasoft/proverbexpress/R.java to javac build list
+[DEBUG] Building Java Sources: "/Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/gen/com/chinasoft/proverbexpress/ApplicationStylesheet.java" "/Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/gen/com/chinasoft/proverbexpress/ProverbExpressActivity.java" "/Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/gen/com/chinasoft/proverbexpress/ProverbExpressAppInfo.java" "/Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/gen/com/chinasoft/proverbexpress/ProverbExpressApplication.java" "/Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/gen/com/chinasoft/proverbexpress/R.java"
+[INFO] Waiting for SDCard to become available..
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: /Users/lienhungcheng/Desktop/AppCeler/ProverbExpress/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/graph/background.png
+[DEBUG] from resource zip => assets/Resources/graph/background0.png
+[DEBUG] from resource zip => assets/Resources/graph/mypic0.png
+[DEBUG] from resource zip => assets/Resources/graph/mypic1.png
+[DEBUG] from resource zip => assets/Resources/graph/mypic2.png
+[DEBUG] from resource zip => assets/Resources/graph/mypic3.png
+[DEBUG] from resource zip => assets/Resources/graph/mypic4.jpg
+[DEBUG] from resource zip => assets/Resources/graph/mypic4.png
+[DEBUG] from resource zip => assets/Resources/graph/mypic5.png
+[DEBUG] from resource zip => assets/Resources/graph/mypic6.png
+[DEBUG] from resource zip => assets/Resources/graph/mypic8.png
+[DEBUG] from resource zip => assets/Resources/graph/mypic9.png
+[DEBUG] from resource zip => assets/Resources/graph/word.png
+[DEBUG] from resource zip => assets/Resources/graph/word0.png
+[DEBUG] from resource zip => assets/Resources/image/colormap.png
+[DEBUG] from resource zip => assets/Resources/image/colormap_org.png
+[DEBUG] from resource zip => assets/Resources/image/default_app_logo.png
+[DEBUG] from resource zip => assets/Resources/image/hscrosshair.gif
+[DEBUG] from resource zip => assets/Resources/image/labelicon.jpg
+[DEBUG] from resource zip => assets/Resources/image/lcrosshair.png
+[DEBUG] from resource zip => assets/Resources/txt/proverbs.txt
+[DEBUG] from resource zip => assets/Resources/wav/1.mp3
+[DEBUG] from resource zip => assets/Resources/wav/1.wav
+[DEBUG] from resource zip => assets/Resources/wav/2.mp3
+[DEBUG] from resource zip => assets/Resources/wav/2.wav
+[DEBUG] from resource zip => assets/Resources/wav/all.mp3
+[DEBUG] from resource zip => assets/Resources/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/bar_select.png
+[DEBUG] from resource zip => assets/Resources/color_picker.js
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/Resources/default_app_logo.png
+[DEBUG] from resource zip => assets/Resources/main.js
+[DEBUG] from resource zip => assets/Resources/readProv.js
+[DEBUG] from resource zip => assets/Resources/splash.js
+[DEBUG] from resource zip => assets/Resources/ti.cloud.js
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/drawable/close.png
+[DEBUG] from resource zip => res/drawable/facebook_login.png
+[DEBUG] from resource zip => res/drawable/facebook_login_down.png
+[DEBUG] from resource zip => res/drawable/facebook_login_wide.png
+[DEBUG] from resource zip => res/drawable/facebook_login_wide_down.png
+[DEBUG] from resource zip => res/drawable/facebook_logout.png
+[DEBUG] from resource zip => res/drawable/facebook_logout_down.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-hdpi/close.png
+[DEBUG] from resource zip => res/drawable-ldpi/close.png
+[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/modules/titanium-facebook.jar => ti/modules/titanium/facebook/LICENSE
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/thirdparty.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/thirdparty.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/thirdparty.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] installing native SDK libs
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.015891 seconds on emulator to get ready
+[INFO] Installing application on emulator
+[INFO] Launching application ... Proverb Express
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.chinasoft.proverbexpress/.ProverbExpressActivity }
+
+[INFO] Deployed Proverb Express ... Application should be running.
+[DEBUG] signal caught: 15
+[DEBUG] calling emulator kill on 56697
